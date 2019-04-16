@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\donggyu\documents\2015180030 이동규\코딩파일\2016_05_24 윈플 연습문제 6.4~6.7\prob 6.5\소스.cpp(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+  Prob 6.5.vcxproj -> C:\Users\DongGyu\Documents\2015180030 이동규\코딩파일\2016_05_24 윈플 연습문제 6.4~6.7\Debug\Prob 6.5.exe

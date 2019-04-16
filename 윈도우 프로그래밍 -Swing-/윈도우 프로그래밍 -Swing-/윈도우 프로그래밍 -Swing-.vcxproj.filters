@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2015180030 이동규.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="stageback.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="station.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="block2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_9.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_10.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_11.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_12.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_14.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="coin_15.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_right.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_right_1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_right_2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_right_3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_right_4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_left.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_left_1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_left_2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_left_3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Player_left_4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_9.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_10.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Portal_11.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\donggyu\downloads\윈플_6단원실습\pro_02\소스.cpp(193): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+c:\users\donggyu\downloads\윈플_6단원실습\pro_02\소스.cpp(192): warning C4101: 'hDC' :참조되지 않은 지역 변수입니다.
+  Pro_02.vcxproj -> C:\Users\DongGyu\Downloads\윈플_6단원실습\Debug\Pro_02.exe
